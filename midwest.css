@@ -1,0 +1,17 @@
+BODY {margin-left: 0pt; margin-right: 0pt; margin-top: 0pt; background-color:#ffffff; color:#000000;}
+
+td {font-size: 100%; font-style: normal; font-family: Verdana, Arial, ans-serif; color:#ffffff;}
+.table {font:normal 10px verdana,arial,sans-serif; color:#000000;}
+.monospace {font:normal 10px fixed,monospace;}
+
+a:link {color: #003300; text-decoration: none;}
+a:visited {color: #003300; text-decoration: none;}
+a:active {color: #cc0000; text-decoration: underline;}
+a:hover {color: #cc0000; text-decoration: underline;}
+
+.header {font: 12px verdana,arial,sans-serif; color: #003300; font-weight: bold;}
+.footer {font: 9px verdana,arial,sans-serif; color: #666666; font-weight: normal;}
+.content {font: 10px verdana,arial,sans-serif; color: #000000; font-weight: normal;}
+
+
+.tcont {font: 12px verdana,arial,sans-serif; color: #000000;}
