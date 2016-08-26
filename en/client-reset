@@ -53,7 +53,7 @@
 	<ul id="nav">
 		<li><a href="about-history.html">About Us</a></li>
 		<li><a href="products-cocoa.html">Products &amp; Services</a></li>
-		<li><a href="contact-form">Contact</a></li>
+		<li><a href="contact-form.html">Contact</a></li>
 	</ul>
 	<img class="strip" src="../organic/1183_940x240_0_1_0.jpg" alt="" />
 </header><nav id="subnav"><h1>Client Login</h1>	<ul><li ><a href="client-login.html">Login</a></li><li ><a href="client-recover.html">Recover Password</a></li><li class="active"><a href="client-reset">Reset password</a></li></ul></nav><section id="main"><div class="chunk"><h2>Reset password</h2></div><div class="chunk"><form class="form" method="post" action="#"><fieldset><div><label for="entry1">Username (e-mail)</label><input id="entry1" type="text" name="email" value="" /></div><div><label for="entry2">Token</label><input id="entry2" type="text" name="token" value="" /></div><div><label for="entry3">New Password (min. 8 characters)</label><input id="entry3" type="password" name="password" /></div><div><label for="entry4">Confirm New Password</label><input id="entry4" type="password" name="password_confirm" /></div><div><input type="submit" class="button" value="Update" /></div></fieldset></form></div></section>
