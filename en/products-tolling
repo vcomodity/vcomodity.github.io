@@ -35,7 +35,7 @@
 <body>
 
 <header>
-	<a id="logo" href="../index.html"><img src="../images/logo.png" alt="Vision Commodities logo" /></a>
+	<a id="logo" href="../index.html"><images src="../images/logo.png" alt="Vision Commodities logo" /></a>
 	<div id="lang_sel_client_area">
 	<a id="client_area" href="client-login.html">Client Area</a>
 	
@@ -45,7 +45,7 @@
 		<li><a href="products-cocoa.html">Products &amp; Services</a></li>
 		<li><a href="contact-form">Contact</a></li>
 	</ul>
-	<img class="strip" src="../_cache/1013_940x240_0_1_0.jpg" alt="" />
+	<images class="strip" src="../images/1013_940x240_0_1_0.jpg" alt="" />
 </header><nav id="subnav"><h1>Products &amp; Services</h1>	<ul><li ><a href="products-cocoa.html">Products</a></li><li class="active"><a href="products-tolling">Tolling Services</a></li><li ><a href="products-qc.html">Quality Control</a></li><li ><a href="products-sustainable.html">Sustainable Sourcing</a></li></ul></nav><section id="main"><div class="chunk"><h2>Toll Processing Services</h2>
 <p>Select customers are eligible to receive special processing services which are tailored to suit their diverse and most demanding needs. These services range from simple molding operations to product alkalization or full manufacture of deodorized cocoa butter and cocoa powder from cocoa beans, as well as anything in between.</p>
 <p>Please contact Vision Commodities&#8217;s commercial department for a personalized quotation.</p>

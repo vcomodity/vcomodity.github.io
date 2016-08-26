@@ -34,7 +34,7 @@
 </head>
 <body>
 <header>
-	<a id="logo" href="../index.html"><img src="../images/logo.png" alt="Vision Commodities logo" /></a>
+	<a id="logo" href="../index.html"><images src="../images/logo.png" alt="Vision Commodities logo" /></a>
 	<div id="lang_sel_client_area">
 	<a id="client_area" href="client-login.html">Client Area</a>
 	
@@ -44,7 +44,7 @@
 		<li><a href="products-cocoa.html">Products &amp; Services</a></li>
 		<li><a href="contact-form">Contact</a></li>
 	</ul>
-	<img class="strip" src="../_cache/1006_940x240_0_1_0.jpg" alt="" />
+	<images class="strip" src="../images/1006_940x240_0_1_0.jpg" alt="" />
 </header><nav id="subnav"><h1>Contact</h1>	<ul><li class="active"><a href="contact-form">Contact Us</a></li><li ><a href="http://10.93.48.54:8080/primary/landing2">Visit Us</a></li><li ><a href="contact-jobs">Join Us</a></li></ul></nav><section id="main"><div class="chunk"><h2>Contact</h2>
 <p><strong>Address: </strong><br>S Market St & College Ave,<br>
 Elizabethtown, PA 17022<br>
